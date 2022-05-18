@@ -1,6 +1,4 @@
-import asyncio
-from datetime import date
-from discord import ChannelType
+from nextcord import ChannelType
 from nextcord import Interaction, SlashOption
 from nextcord.ext import tasks
 import nextcord, json
